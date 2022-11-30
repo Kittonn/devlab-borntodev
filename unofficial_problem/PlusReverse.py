@@ -1,0 +1,5 @@
+a = int(input())
+b = int(input())
+a_b = str(a + b)
+new = ''.join(reversed(a_b))
+print(new)

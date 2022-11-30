@@ -1,0 +1,6 @@
+x = int(input())
+y = int(input())
+print(str(x)+' + '+str(y)+' = '+str(x+y))
+print(str(x)+' - '+str(y)+' = '+str(x-y))
+print(str(x)+' * '+str(y)+' = '+str(x*y))
+print(str(x)+' / '+str(y)+' = '+str(int(x/y)))

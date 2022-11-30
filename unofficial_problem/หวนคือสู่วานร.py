@@ -1,0 +1,5 @@
+d = float(input())
+a = float(input())
+c = int(input())
+a_p = float(input())
+print(int((d-a)/a_p))
